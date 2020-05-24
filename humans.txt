@@ -1,0 +1,18 @@
+/* TEAM */
+    Art director: Joris Tosco
+    Contact: joris [at] revele.art
+    Website: https://revele.art/
+    From:Valence, France
+
+    Web developer: Benoit Podwinski
+    Contact: benoit [at] revele.art
+    Website: https://revele.art/
+    Website: https://benoitpodwinski.com/
+    From:Valence, France
+
+/* THANKS */  
+
+/* SITE */
+    Last update: 2032/02/19
+    Language: French
+    Doctype: HTML5
